@@ -1,0 +1,13 @@
+/packages
+/ShoppingCart.Api/obj
+/ShoppingCart.Api/bin
+/ShoppingCart.Helper/bin
+/ShoppingCart.Helper/obj
+/ShoppingCart.Interface/obj
+/ShoppingCart.Interface/bin
+/ShoppingCart.Model/obj
+/ShoppingCart.Model/bin
+/ShoppingCart.Provider/obj
+/ShoppingCart.Provider/bin
+/ShoppingCart.Service/obj
+/ShoppingCart.Service/bin
